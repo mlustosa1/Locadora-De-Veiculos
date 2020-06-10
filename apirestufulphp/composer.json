@@ -1,0 +1,8 @@
+{
+    "name": "marcelo/apirestufulphp",
+    "require": {},
+
+    "autoload":{
+        "classmap":["model/"]
+       }
+}
